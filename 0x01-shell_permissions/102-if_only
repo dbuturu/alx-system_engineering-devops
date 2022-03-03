@@ -1,4 +1,2 @@
 #!/bin/bash
-if [[ $(ls -al myFileName | awk '{print $3}') == "guillaume" ]]; then
-  chowm betty hello 
-fi
+chown --from guillaume betty hello
