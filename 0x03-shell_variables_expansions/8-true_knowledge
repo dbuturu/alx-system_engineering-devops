@@ -1,0 +1,3 @@
+#!/bin/bash
+((y=$TRUEKNOWLEDGE+128))
+echo $y
