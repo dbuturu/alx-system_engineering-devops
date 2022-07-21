@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#until best school
 
 i=1
 until [ $i -gt 10 ]

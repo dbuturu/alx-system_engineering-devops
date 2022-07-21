@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#while best school
 
 i=1
 while [ $i -le 10 ]
